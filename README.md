@@ -1,4 +1,5 @@
 # 👋 Hey, I'm NOT Aufgeladen (Jakob)
+\* **17yo Dev from Germany**
 
 💻 **Dev & UEGane Modder**
 
@@ -16,7 +17,8 @@
 - ✉️ Email: [jfr@phnxlol](mailto:jfr@phnx.lol)
 - 🔗 PhoenixFN: [phnx.lol](https://phnx.lol) 
 - 🔗 PyFN: [pyfn.dev](https://pyfn.dev)  
-- 📬 Discord: *FORTNITECLIENT*  
+- 📬 Discord: *FORTNITECLIENT*
+- 💬 Telegram: **Jakob_9999**
 
 <h1>‎</h1>
 
